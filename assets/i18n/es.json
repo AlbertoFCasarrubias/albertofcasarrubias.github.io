@@ -1,0 +1,37 @@
+{
+  "client": "Cliente",
+  "category": "Categoría",
+  "hello": "De la Idea al Producto: Desarrollo Full-Stack & Apps de Alto Impacto",
+  "welcome": "Impulso el crecimiento de empresas mediante software robusto, interfaces modernas y arquitectura en la nube. No solo escribo código, construyo el motor de tu negocio.",
+  "services": "Servicios Especializados",
+  "description": "Descripción",
+  "service1": {
+    "title": "Visualización 3D",
+    "description": "Experiencias inmersivas, renders fotorrealistas y recorridos virtuales de alta gama para proyectos arquitectónicos y comerciales."
+  },
+  "service2": {
+    "title": "Soluciones Web",
+    "description": "Desarrollo de ecosistemas digitales escalables y portales de alto rendimiento utilizando arquitecturas modernas (Angular/React)."
+  },
+  "service3": {
+    "title": "Desarrollo Mobile",
+    "description": "Creación de aplicaciones nativas e híbridas (iOS/Android) con un enfoque total en la experiencia de usuario y escalabilidad."
+  },
+  "menu": {
+    "title" : "Alberto Fuentes", 
+    "home": "inicio",
+    "about": "trayectoria",
+    "projects": "portafolio",
+    "contact": "contacto"
+  },
+  "mail": "Email",
+  "message": "Tu mensaje",
+  "moreWorks": "Ver más proyectos",
+  "contactUs": "Inicia tu proyecto",
+  "contactText": "Hablemos sobre cómo llevar tu idea al siguiente nivel.",
+  "contactBtn": "Agendar consulta",
+  "errorMail": "Ingresa un correo electrónico válido.",
+  "send": "Enviar mensaje",
+  "sendOK": "¡Mensaje enviado con éxito!",
+  "sendError": "Ocurrió un error al enviar el mensaje. Por favor inténtalo más tarde."
+}

@@ -1,0 +1,37 @@
+{
+  "client": "Client",
+  "category": "Category",
+  "hello": "From Idea to Product: High-Impact Full-Stack Development",
+  "welcome": "I empower companies to scale through robust software, modern interfaces, and cloud architecture. I don’t just write code; I build the engine for your business.",
+  "services": "Expertise",
+  "description": "Description",
+  "service1": {
+    "title": "3D Visualization",
+    "description": "Immersive experiences, photorealistic renders, and high-end virtual tours for architectural and commercial projects."
+  },
+  "service2": {
+    "title": "Web Solutions",
+    "description": "Enterprise-grade digital ecosystems and high-performance portals built with modern cloud-ready architectures."
+  },
+  "service3": {
+    "title": "Mobile Development",
+    "description": "Custom iOS and Android applications focused on seamless user experience, performance, and scalability."
+  },
+  "menu": {
+    "title" : "Alberto Fuentes", 
+    "home": "home",
+    "about": "about",
+    "projects": "portfolio",
+    "contact": "contact"
+  },
+  "mail": "Email",
+  "message": "Message",
+  "moreWorks": "View more projects",
+  "contactUs": "Start your project",
+  "contactText": "Let’s talk about turning your vision into a scalable digital product.",
+  "contactBtn": "Let's Talk",
+  "errorMail": "Please enter a valid email.",
+  "send": "Send Message",
+  "sendOK": "Mail sent successfully!",
+  "sendError": "An error occurred while sending the mail. Please try again later."
+}
